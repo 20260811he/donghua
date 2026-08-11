@@ -427,7 +427,7 @@ const data: Data = {
       score: 7.6,
     },
     {
-      titleZh: "永不磨灭的番号",
+      titleZh: "新还珠格格",
       titleEn: "AnoHana",
       titleJa: "あの日見た花の名前を僕達はまだ知らない。",
       score: 7.6,
@@ -439,7 +439,7 @@ const data: Data = {
       score: 6.5,
     },
     {
-      titleZh: "爱情真善美",
+      titleZh: "夏家三千金",
       titleEn: "Hanasaku Iroha",
       titleJa: "花咲くいろは",
       score: 7.5,
