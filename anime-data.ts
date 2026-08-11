@@ -590,7 +590,7 @@ const data: Data = {
       score: 6.8,
     },
     {
-      titleZh: "棋逢对手",
+      titleZh: "龙门镖局",
       titleEn:
         "My Brain's Little Options Are Doing Their Best to Hinder My School Romance Comedy",
       titleJa: "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
