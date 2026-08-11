@@ -296,7 +296,7 @@ const data: Data = {
       score: 7.4,
     },
     {
-      titleZh: "保卫延安",
+      titleZh: "爱情公寓",
       titleEn: "Kimi ni Todoke",
       titleJa: "君に届け",
       score: 7.6,
