@@ -4,7 +4,7 @@ export const translations = {
   zh: {
     title: "国产剧",
     subtitle: "点击选择你看过的国产电视剧",
-    website: "anime-sedai.egoist.dev",
+    website: " ",
     watchedCount: "我看过 {{count}}/{{total}} 部国产剧",
     selectAll: "全选",
     clear: "清除",
