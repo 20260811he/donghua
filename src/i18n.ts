@@ -2,10 +2,10 @@ export type Language = "zh" | "en" | "ja"
 
 export const translations = {
   zh: {
-    title: "动画世代",
-    subtitle: "点击选择你看过的动画",
+    title: "国产剧",
+    subtitle: "点击选择你看过的国产电视剧",
     website: "anime-sedai.egoist.dev",
-    watchedCount: "我看过 {{count}}/{{total}} 部动画",
+    watchedCount: "我看过 {{count}}/{{total}} 部国产剧",
     selectAll: "全选",
     clear: "清除",
     copyImage: "复制图片",
