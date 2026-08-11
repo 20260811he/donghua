@@ -82,7 +82,7 @@ const data: Data = {
       score: 7.6,
     },
     {
-      titleZh: "京城四少",
+      titleZh: "乡村爱情",
       titleEn: "Honey and Clover II",
       titleJa: "ハチミツとクローバーII",
       score: 8.5,
@@ -103,7 +103,7 @@ const data: Data = {
       score: 8.6,
     },
     {
-      titleZh: "双面胶",
+      titleZh: "楚留香传奇",
       titleEn: "Hayate the Combat Butler",
       titleJa: "ハヤテのごとく！",
       score: 7.4,
@@ -157,13 +157,13 @@ const data: Data = {
       score: 7.6,
     },
     {
-      titleZh: "王昭君",
+      titleZh: "错爱",
       titleEn: "Darker than Black",
       titleJa: "DARKER THAN BLACK -黒の契約者-",
       score: 8,
     },
     {
-      titleZh: "楚留香传奇",
+      titleZh: "岁月",
       titleEn: "My Bride is a Mermaid",
       titleJa: "瀬戸の花嫁",
       score: 7.4,
@@ -177,7 +177,7 @@ const data: Data = {
       score: 6.9,
     },
     {
-      titleZh: "天道",
+      titleZh: "李小龙传奇",
       titleEn: "Toradora!",
       titleJa: "とらドラ！",
       score: 8,
@@ -208,7 +208,7 @@ const data: Data = {
     },
     { titleZh: "母仪天下", titleEn: "Kannagi", titleJa: "かんなぎ", score: 7.1 },
     {
-      titleZh: "牵挂",
+      titleZh: "潜伏",
       titleEn: "Kanokon",
       titleJa: "かのこん",
       score: 6.1,
@@ -421,7 +421,7 @@ const data: Data = {
       score: 8,
     },
     {
-      titleZh: "风车",
+      titleZh: "回家的诱惑",
       titleEn: "YuruYuri",
       titleJa: "ゆるゆり",
       score: 7.6,
@@ -439,18 +439,18 @@ const data: Data = {
       score: 6.5,
     },
     {
-      titleZh: "借枪",
+      titleZh: "爱情真善美",
       titleEn: "Hanasaku Iroha",
       titleJa: "花咲くいろは",
       score: 7.5,
     },
     {
-      titleZh: "你是我兄弟",
+      titleZh: "美人心计",
       titleEn: "The Idolmaster",
       titleJa: "アイドルマスター",
       score: 8.3,
     },
-    { titleZh: "断刺", titleEn: "GOSICK", titleJa: "GOSICK", score: 7.3 },
+    { titleZh: "宫锁心玉", titleEn: "GOSICK", titleJa: "GOSICK", score: 7.3 },
   ],
   "2012": [
     { titleZh: "心术", titleEn: "Hyouka", titleJa: "氷菓", score: 8.2 },
@@ -479,7 +479,7 @@ const data: Data = {
       score: 8.2,
     },
     {
-      titleZh: "民兵葛二蛋",
+      titleZh: "轩辕剑之天之痕",
       titleEn: "Nisemonogatari",
       titleJa: "偽物語",
       score: 7.8,
@@ -492,7 +492,7 @@ const data: Data = {
       score: 7.4,
     },
     {
-      titleZh: "乱世三义",
+      titleZh: "胜女的代价",
       titleEn: "Psycho-Pass",
       titleJa: "PSYCHO-PASS サイコパス",
       score: 7.9,
@@ -510,7 +510,7 @@ const data: Data = {
       score: 6.9,
     },
     {
-      titleZh: "浮沉",
+      titleZh: "宫锁珠帘",
       titleEn: "Sword Art Online",
       titleJa: "ソードアート・オンライン",
       score: 7.3,
@@ -542,25 +542,25 @@ const data: Data = {
       score: 8,
     },
     {
-      titleZh: "赵氏孤儿案",
+      titleZh: "陆贞传奇",
       titleEn: "Tamako Market",
       titleJa: "たまこまーけっと",
       score: 7.2,
     },
     {
-      titleZh: "打狗棍",
+      titleZh: "新笑傲江湖",
       titleEn: "Yama no Susume",
       titleJa: "ヤマノススメ",
       score: 7.1,
     },
     {
-      titleZh: "门第",
+      titleZh: "小爸爸",
       titleEn: "Date A Live",
       titleJa: "デート・ア・ライブ",
       score: 6.6,
     },
     {
-      titleZh: "老有所依",
+      titleZh: "百万新娘2之爱无悔",
       titleEn: "Strike the Blood",
       titleJa: "ストライク・ザ・ブラッド",
       score: 6.6,
@@ -639,7 +639,7 @@ const data: Data = {
     },
     { titleZh: "灵魂摆渡", titleEn: "Nisekoi", titleJa: "ニセコイ", score: 7.1 },
     {
-      titleZh: "红色",
+      titleZh: "历史转折中的邓小平",
       titleEn: "Monthly Girls' Nozaki-kun",
       titleJa: "月刊少女野崎くん",
       score: 7.8,
@@ -731,7 +731,7 @@ const data: Data = {
       score: 8.3,
     },
     {
-      titleZh: "千金女贼",
+      titleZh: "虎妈猫爸",
       titleEn: "Owarimonogatari",
       titleJa: "終物語",
       score: 7.8,
@@ -806,7 +806,7 @@ const data: Data = {
       score: 7.4,
     },
     {
-      titleZh: "好先生",
+      titleZh: "锦绣未央",
       titleEn: "Haven't You Heard? I'm Sakamoto",
       titleJa: "坂本ですが？",
       score: 6.5,
@@ -844,7 +844,7 @@ const data: Data = {
       score: 7.6,
     },
     {
-      titleZh: "鸡毛飞上天",
+      titleZh: "楚乔传",
       titleEn: "Tsuki ga Kirei",
       titleJa: "月がきれい",
       score: 7.9,
@@ -862,7 +862,7 @@ const data: Data = {
       score: 6.4,
     },
     {
-      titleZh: "风筝",
+      titleZh: "三生三世十里桃花",
       titleEn: "Saga of Tanya the Evil",
       titleJa: "幼女戦記",
       score: 7.2,
@@ -898,7 +898,7 @@ const data: Data = {
       score: 7.1,
     },
     {
-      titleZh: "外科风云",
+      titleZh: "那年花开月正圆",
       titleEn: "Aho-Girl",
       titleJa: "アホガール",
       score: 6.6,
@@ -954,7 +954,7 @@ const data: Data = {
       score: 7.9,
     },
     {
-      titleZh: "教室的那一间",
+      titleZh: "延禧攻略",
       titleEn: "Teasing Master Takagi-san",
       titleJa: "からかい上手の高木さん",
       score: 7.5,
@@ -978,7 +978,7 @@ const data: Data = {
       score: 7.4,
     },
     {
-      titleZh: "小戏骨：水浒传",
+      titleZh: "扶摇",
       titleEn: "Goblin Slayer",
       titleJa: "ゴブリンスレイヤー",
       score: 6.7,
@@ -1162,7 +1162,7 @@ const data: Data = {
       score: 6.9,
     },
     {
-      titleZh: "装台",
+      titleZh: "三十而已",
       titleEn: "Our Last Crusade or the Rise of a New World",
       titleJa: "キミと僕の最後の戦場、あるいは世界が始まる聖戦",
       score: 5.5,
@@ -1186,7 +1186,7 @@ const data: Data = {
       score: 7,
     },
     {
-      titleZh: "锦衣之下",
+      titleZh: "清平乐",
       titleEn: "Rent-A-Girlfriend",
       titleJa: "彼女、お借りします",
       score: 5.8,
@@ -1346,13 +1346,13 @@ const data: Data = {
       score: 7.1,
     },
     {
-      titleZh: "超越",
+      titleZh: "星汉灿烂",
       titleEn: "Chainsaw Man",
       titleJa: "チェンソーマン",
       score: 6.9,
     },
     {
-      titleZh: "对手",
+      titleZh: "雪中悍刀行",
       titleEn: "Akebi's Sailor Uniform",
       titleJa: "明日ちゃんのセーラー服",
       score: 7.5,
