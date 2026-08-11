@@ -17,9 +17,6 @@
     "tailwindcss": "^4.1.7",
     "vite": "^6.3.5"
   },
-  "peerDependencies": {
-    "typescript": "^5"
-  },
   "dependencies": {
     "cheerio": "^1.0.0",
     "react": "^19.1.0",
