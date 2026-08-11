@@ -403,7 +403,13 @@ const data: Data = {
       score: 8.1,
     },
     {
-      titleZh: "传奇之王",
+      titleZh: "爱情公寓2",
+      titleEn: "Puella Magi Madoka Magica",
+      titleJa: "魔法少女まどか☆マギカ",
+      score: 8.6,
+    },
+    {
+      titleZh: "步步惊心",
       titleEn: "Puella Magi Madoka Magica",
       titleJa: "魔法少女まどか☆マギカ",
       score: 8.6,
@@ -491,8 +497,14 @@ const data: Data = {
       titleJa: "PSYCHO-PASS サイコパス",
       score: 7.9,
     },
+     {
+      titleZh: "我们的法兰西岁月",
+      titleEn: "Psycho-Pass",
+      titleJa: "PSYCHO-PASS サイコパス",
+      score: 7.9,
+    },
     {
-      titleZh: "正者无敌",
+      titleZh: "爱情公寓3",
       titleEn: "High School DxD",
       titleJa: "ハイスクールD×D",
       score: 6.9,
