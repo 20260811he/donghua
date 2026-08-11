@@ -208,7 +208,7 @@ const data: Data = {
     },
     { titleZh: "母仪天下", titleEn: "Kannagi", titleJa: "かんなぎ", score: 7.1 },
     {
-      titleZh: "潜伏",
+      titleZh: "夜幕下的哈尔滨",
       titleEn: "Kanokon",
       titleJa: "かのこん",
       score: 6.1,
@@ -221,19 +221,19 @@ const data: Data = {
     },
     { titleZh: "敌营十八年", titleEn: "Black Butler", titleJa: "黒執事", score: 7 },
     {
-      titleZh: "大案组",
+      titleZh: "神探狄仁杰3",
       titleEn: "Zoku Sayonara Zetsubou Sensei",
       titleJa: "俗・さよなら絶望先生",
       score: 7.8,
     },
     {
-      titleZh: "青春舞台",
+      titleZh: "东方朔",
       titleEn: "Sekirei",
       titleJa: "セキレイ",
       score: 6.2,
     },
     {
-      titleZh: "温柔的背后",
+      titleZh: "女人花",
       titleEn: "Strike Witches",
       titleJa: "ストライクウィッチーズ",
       score: 7.1,
