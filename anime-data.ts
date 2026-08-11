@@ -862,7 +862,7 @@ const data: Data = {
       score: 7.9,
     },
     {
-      titleZh: "射雕英雄传",
+      titleZh: "射雕英雄传17版",
       titleEn: "BanG Dream!",
       titleJa: "BanG Dream!",
       score: 6.4,
