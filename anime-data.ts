@@ -214,7 +214,7 @@ const data: Data = {
       score: 6.1,
     },
     {
-      titleZh: "射雕英雄传",
+      titleZh: "射雕英雄传08版",
       titleEn: "Soul Eater",
       titleJa: "ソウルイーター",
       score: 7.4,
@@ -683,7 +683,7 @@ const data: Data = {
       score: 7.3,
     },
     {
-      titleZh: "毛骗终结篇",
+      titleZh: "太子妃升职记",
       titleEn: "One Punch Man",
       titleJa: "ワンパンマン",
       score: 8,
