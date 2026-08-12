@@ -177,6 +177,18 @@ const data: Data = {
       titleJa: "フリップフラッパーズ",
       score: 7.5,
     },
+    {
+      titleZh: "一人之下",
+      titleEn: "Flip Flappers",
+      titleJa: "フリップフラッパーズ",
+      score: 7.5,
+    },
+    {
+      titleZh: "全职法师",
+      titleEn: "Flip Flappers",
+      titleJa: "フリップフラッパーズ",
+      score: 7.5,
+    },
   ],
   "2017": [
     {
@@ -235,6 +247,18 @@ const data: Data = {
     },
     {
       titleZh: "少年锦衣卫",
+      titleEn: "Little Witch Academia",
+      titleJa: "リトルウィッチアカデミア",
+      score: 7.7,
+    },
+      {
+      titleZh: "雄兵连",
+      titleEn: "Little Witch Academia",
+      titleJa: "リトルウィッチアカデミア",
+      score: 7.7,
+    },
+    {
+      titleZh: "我的天劫女友",
       titleEn: "Little Witch Academia",
       titleJa: "リトルウィッチアカデミア",
       score: 7.7,
@@ -371,6 +395,18 @@ const data: Data = {
     },
     {
       titleZh: "请吃红小豆吧",
+      titleEn: "How Clumsy You Are, Miss Ueno",
+      titleJa: "上野さんは不器用",
+      score: 6.5,
+    },
+      {
+      titleZh: "猫妖的诱惑",
+      titleEn: "How Clumsy You Are, Miss Ueno",
+      titleJa: "上野さんは不器用",
+      score: 6.5,
+    },
+      {
+      titleZh: "武动乾坤",
       titleEn: "How Clumsy You Are, Miss Ueno",
       titleJa: "上野さんは不器用",
       score: 6.5,
@@ -599,6 +635,12 @@ const data: Data = {
     },
     {
       titleZh: "神印王座",
+      titleEn: "Aharen Is Indecipherable",
+      titleJa: "阿波連さんははかれない",
+      score: 6.4,
+    },
+     {
+      titleZh: "千从狩",
       titleEn: "Aharen Is Indecipherable",
       titleJa: "阿波連さんははかれない",
       score: 6.4,
