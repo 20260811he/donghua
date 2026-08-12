@@ -440,13 +440,13 @@ const data: Data = {
       score: 7.9,
     },
     {
-      titleZh: "一人之下 第二季",
+      titleZh: "一人之下2",
       titleEn: "BanG Dream!",
       titleJa: "BanG Dream!",
       score: 6.4,
     },
     {
-      titleZh: "画江湖之不良人 第二季",
+      titleZh: "画江湖之不良人2",
       titleEn: "Saga of Tanya the Evil",
       titleJa: "幼女戦記",
       score: 7.2,
@@ -618,7 +618,7 @@ const data: Data = {
       score: 6.5,
     },
   ],
-  "2020": [
+  "2020.1": [
     {
       titleZh: "我的三体 章北海传",
       titleEn: "Ishuzoku Reviewers",
@@ -691,7 +691,9 @@ const data: Data = {
       titleJa: "邪神ちゃんドロップキック’",
       score: 7.3,
     },
-    {
+  ],
+  "2020.2": [
+      {
       titleZh: "仙王的日常生活",
       titleEn: "My Next Life as a Villainess: All Routes Lead to Doom!",
       titleJa: "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
@@ -708,14 +710,20 @@ const data: Data = {
       titleEn: "Rent-A-Girlfriend",
       titleJa: "彼女、お借りします",
       score: 5.8,
-    },
-      {
+    },   
+    {
       titleZh: "穿书自救指南",
       titleEn: "Rent-A-Girlfriend",
       titleJa: "彼女、お借りします",
       score: 5.8,
     },
-  ],
+     {
+      titleZh: "吞噬星空",
+      titleEn: "Rent-A-Girlfriend",
+      titleJa: "彼女、お借りします",
+      score: 5.8,
+    },
+    ],
   "2021": [
     {
       titleZh: "风灵玉秀",
