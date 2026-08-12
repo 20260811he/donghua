@@ -2,10 +2,10 @@ export type Language = "zh" | "en" | "ja"
 
 export const translations = {
   zh: {
-    title: "国产剧",
-    subtitle: "点击选择你看过的国产电视剧",
+    title: "国产动画",
+    subtitle: "点击选择你看过的国产动画",
     website: " ",
-    watchedCount: "我看过 {{count}}/{{total}} 部国产剧",
+    watchedCount: "我看过 {{count}}/{{total}} 部国产动画",
     selectAll: "全选",
     clear: "清除",
     copyImage: "复制图片",
