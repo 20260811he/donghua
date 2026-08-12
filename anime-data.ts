@@ -120,6 +120,24 @@ const data: Data = {
       titleJa: "プラスティック・メモリーズ",
       score: 7,
     },
+      {
+      titleZh: "雏蜂",
+      titleEn: "Plastic Memories",
+      titleJa: "プラスティック・メモリーズ",
+      score: 7,
+    },
+      {
+      titleZh: "择天记",
+      titleEn: "Plastic Memories",
+      titleJa: "プラスティック・メモリーズ",
+      score: 7,
+    },
+      {
+      titleZh: "中国惊奇先生",
+      titleEn: "Plastic Memories",
+      titleJa: "プラスティック・メモリーズ",
+      score: 7,
+    },
   ],
   "2016": [
     {
