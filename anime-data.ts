@@ -618,7 +618,7 @@ const data: Data = {
       score: 6.5,
     },
   ],
-  "2020.1": [
+  "2020": [
     {
       titleZh: "我的三体 章北海传",
       titleEn: "Ishuzoku Reviewers",
@@ -692,7 +692,7 @@ const data: Data = {
       score: 7.3,
     },
   ],
-  "2020.2": [
+  "2020.1": [
       {
       titleZh: "仙王的日常生活",
       titleEn: "My Next Life as a Villainess: All Routes Lead to Doom!",
