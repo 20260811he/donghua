@@ -204,6 +204,12 @@ const data: Data = {
       titleJa: "ノーゲーム・ノーライフ",
       score: 7.7,
     },
+      {
+      titleZh: "茶啊二中",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
      ],
   "2015": [
     {
