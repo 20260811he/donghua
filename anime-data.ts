@@ -692,38 +692,6 @@ const data: Data = {
       score: 7.3,
     },
   ],
-  "2020.1": [
-      {
-      titleZh: "仙王的日常生活",
-      titleEn: "My Next Life as a Villainess: All Routes Lead to Doom!",
-      titleJa: "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…",
-      score: 6.5,
-    },
-    {
-      titleZh: "百妖谱",
-      titleEn: "Sleepy Princess in the Demon Castle",
-      titleJa: "魔王城でおやすみ",
-      score: 7,
-    },
-    {
-      titleZh: "一念永恒",
-      titleEn: "Rent-A-Girlfriend",
-      titleJa: "彼女、お借りします",
-      score: 5.8,
-    },   
-    {
-      titleZh: "穿书自救指南",
-      titleEn: "Rent-A-Girlfriend",
-      titleJa: "彼女、お借りします",
-      score: 5.8,
-    },
-     {
-      titleZh: "吞噬星空",
-      titleEn: "Rent-A-Girlfriend",
-      titleJa: "彼女、お借りします",
-      score: 5.8,
-    },
-    ],
   "2021": [
     {
       titleZh: "风灵玉秀",
