@@ -1174,6 +1174,12 @@ const data: Data = {
       titleJa: "ウマ娘 シンデレラグレイ",
       score: 7.5,
     },
+        {
+      titleZh: "择日飞升",
+      titleEn: "Uma Musume Cinderella Gray",
+      titleJa: "ウマ娘 シンデレラグレイ",
+      score: 7.5,
+    },
   ],
 }
 
