@@ -222,6 +222,30 @@ const data: Data = {
       titleJa: "ノーゲーム・ノーライフ",
       score: 7.7,
     },
+       {
+      titleZh: "我们的冬奥",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
+       {
+      titleZh: "秦时明月之龙腾万里",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
+      {
+      titleZh: "落凡尘",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
+      {
+      titleZh: "伞少女",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
      ],
   "2015": [
     {
