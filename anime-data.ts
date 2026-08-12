@@ -189,7 +189,7 @@ const data: Data = {
       score: 8,
     },
   ],
-   "院线1": [
+   "院线4": [
     { titleZh: "三国第一部争洛阳", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
     { titleZh: "去你的岛", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
     {
