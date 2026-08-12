@@ -130,6 +130,65 @@ const data: Data = {
       score: 8,
     },
   ],
+ "院线3": [
+    { titleZh: "熊出没·伴我熊芯", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
+    { titleZh: "深海", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
+    {
+      titleZh: "熊出没·逆转时空",
+      titleEn: "Fate/stay night [Unlimited Blade Works]",
+      titleJa: "Fate/stay night [Unlimited Blade Works]",
+      score: 7.5,
+    },
+    {
+      titleZh: "白蛇：浮生",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
+    {
+      titleZh: "雄狮少年2",
+      titleEn: "Ping Pong",
+      titleJa: "ピンポン THE ANIMATION",
+      score: 8.7,
+    },
+    {
+      titleZh: "哪吒之魔童闹海",
+      titleEn: "Amagi Brilliant Park",
+      titleJa: "甘城ブリリアントパーク",
+      score: 7,
+    },
+    {
+      titleZh: "浪浪山小妖怪",
+      titleEn: "Parasyte -the maxim-",
+      titleJa: "寄生獣 セイの格率",
+      score: 8,
+    },
+    { titleZh: "熊出没·重启未来", titleEn: "Nisekoi", titleJa: "ニセコイ", score: 7.1 },
+    {
+      titleZh: "罗小黑战记2",
+      titleEn: "Monthly Girls' Nozaki-kun",
+      titleJa: "月刊少女野崎くん",
+      score: 7.8,
+    },
+    {
+      titleZh: "时间之子",
+      titleEn: "Is the Order a Rabbit?",
+      titleJa: "ご注文はうさぎですか？",
+      score: 7.3,
+    },
+    {
+      titleZh: "聊斋：兰若寺",
+      titleEn: "Akame ga Kill!",
+      titleJa: "アカメが斬る！",
+      score: 6.6,
+    },
+    {
+      titleZh: "八仙！",
+      titleEn: "Space Dandy",
+      titleJa: "スペース☆ダンディ",
+      score: 8,
+    },
+  ],
   "2015": [
     {
       titleZh: "那年那兔那些事",
