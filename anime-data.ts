@@ -12,94 +12,6 @@ type Data = {
 }
 
 const data: Data = {
-  "2013": [
-    {
-      titleZh: "父母爱情",
-      titleEn: "Attack on Titan",
-      titleJa: "進撃の巨人",
-      score: 8.2,
-    },
-    {
-      titleZh: "咱们结婚吧",
-      titleEn: "Kill la Kill",
-      titleJa: "キルラキル",
-      score: 8.1,
-    },
-    {
-      titleZh: "毛骗终结篇",
-      titleEn: "My Teen Romantic Comedy SNAFU",
-      titleJa: "やはり俺の青春ラブコメはまちがっている。",
-      score: 7.5,
-    },
-    {
-      titleZh: "大秦帝国之纵横",
-      titleEn: "Non Non Biyori",
-      titleJa: "のんのんびより",
-      score: 8,
-    },
-    {
-      titleZh: "陆贞传奇",
-      titleEn: "Tamako Market",
-      titleJa: "たまこまーけっと",
-      score: 7.2,
-    },
-    {
-      titleZh: "新笑傲江湖",
-      titleEn: "Yama no Susume",
-      titleJa: "ヤマノススメ",
-      score: 7.1,
-    },
-    {
-      titleZh: "小爸爸",
-      titleEn: "Date A Live",
-      titleJa: "デート・ア・ライブ",
-      score: 6.6,
-    },
-    {
-      titleZh: "百万新娘2之爱无悔",
-      titleEn: "Strike the Blood",
-      titleJa: "ストライク・ザ・ブラッド",
-      score: 6.6,
-    },
-    {
-      titleZh: "精忠岳飞",
-      titleEn: "Nagi-Asu: A Lull in the Sea",
-      titleJa: "凪のあすから",
-      score: 7.5,
-    },
-    {
-      titleZh: "爱情公寓4",
-      titleEn: "Oreimo 2",
-      titleJa: "俺の妹がこんなに可愛いわけがない。",
-      score: 6.9,
-    },
-    {
-      titleZh: "辣妈正传",
-      titleEn: "WataMote",
-      titleJa: "私がモテないのはどう考えてもお前らが悪い！",
-      score: 6.9,
-    },
-    {
-      titleZh: "生活启示录",
-      titleEn: "Beyond the Boundary",
-      titleJa: "境界の彼方",
-      score: 6.8,
-    },
-    {
-      titleZh: "龙门镖局",
-      titleEn:
-        "My Brain's Little Options Are Doing Their Best to Hinder My School Romance Comedy",
-      titleJa: "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
-      score: 6.6,
-    },
-    {
-      titleZh: "渗透",
-      titleEn: "Fate/kaleid liner 魔法少女☆イリヤ",
-      titleJa: "Fate/kaleid liner プリズマ☆イリヤ",
-      score: 6.9,
-    },
-    { titleZh: "新编辑部故事", titleEn: "GJ Club", titleJa: "GJ部", score: 6.9 },
-  ],
   "2014": [
     { titleZh: "北平无战事", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
     { titleZh: "战长沙", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
@@ -211,77 +123,59 @@ const data: Data = {
   ],
   "2016": [
     {
-      titleZh: "一起同过窗",
+      titleZh: "狐妖小红娘王权篇",
       titleEn: "Kono Suba",
       titleJa: "この素晴らしい世界に祝福を！",
       score: 7.6,
     },
     {
-      titleZh: "最好的我们",
+      titleZh: "天行九歌",
       titleEn: "March Comes in Like a Lion",
       titleJa: "3月のライオン",
       score: 8.3,
     },
-    { titleZh: "鬼吹灯之精绝古城", titleEn: "ReLIFE", titleJa: "ReLIFE", score: 7.7 },
+    { titleZh: "勇者大冒险2", titleEn: "ReLIFE", titleJa: "ReLIFE", score: 7.7 },
     {
-      titleZh: "遇见王沥川",
+      titleZh: "纳米核心2",
       titleEn: "The Disastrous Life of Saiki K.",
       titleJa: "斉木楠雄のΨ難",
       score: 7.7,
     },
     {
-      titleZh: "余罪 第一季",
+      titleZh: "超神学院 黑甲",
       titleEn: "Re:Zero ",
       titleJa: "Re:ゼロから始める異世界生活",
       score: 7.4,
     },
     {
-      titleZh: "欢乐颂",
+      titleZh: "镇魂街",
       titleEn: "Erased",
       titleJa: "僕だけがいない街",
       score: 7.7,
     },
     {
-      titleZh: "微微一笑很倾城",
+      titleZh: "我的三体 罗辑传",
       titleEn: "Mob Psycho 100",
       titleJa: "モブサイコ100",
       score: 7.8,
     },
     {
-      titleZh: "青云志",
+      titleZh: "狐妖小红娘 月红篇",
       titleEn: "Grimgar of Fantasy and Ash",
       titleJa: "灰と幻想のグリムガル",
       score: 7.5,
     },
     {
-      titleZh: "麻雀",
+      titleZh: "茶啊二中3",
       titleEn: "This Art Club Has a Problem!",
       titleJa: "この美術部には問題がある！",
       score: 7.3,
     },
     {
-      titleZh: "海棠依旧",
+      titleZh: "凸变英雄BABA",
       titleEn: "Flip Flappers",
       titleJa: "フリップフラッパーズ",
       score: 7.5,
-    },
-    {
-      titleZh: "如果蜗牛有爱情",
-      titleEn: "Flying Witch",
-      titleJa: "ふらいんぐうぃっち",
-      score: 7.5,
-    },
-    {
-      titleZh: "法医秦明",
-      titleEn: "NEW GAME!",
-      titleJa: "NEW GAME!",
-      score: 7.4,
-    },
-    {
-      titleZh: "锦绣未央",
-      titleEn: "Haven't You Heard? I'm Sakamoto",
-      titleJa: "坂本ですが？",
-      score: 6.5,
     },
   ],
   "2017": [
