@@ -1058,6 +1058,75 @@ const data: Data = {
       score: 6.2,
     },
   ],
+    "2026": [
+    {
+      titleZh: "中国奇谭2",
+      titleEn: "GNOSIA",
+      titleJa: "グノーシア",
+      score: 7.5,
+    },
+    {
+      titleZh: "剑来2",
+      titleEn: "Chitose Is in the Ramune Bottle",
+      titleJa: "千歳くんはラムネ瓶のなか",
+      score: 4.1,
+    },
+    {
+      titleZh: "成何体统2",
+      titleEn: "There's No Freaking Way I'll be Your Lover! Unless...",
+      titleJa:
+        "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
+      score: 7.4,
+    },
+    {
+      titleZh: "择天记3D",
+      titleEn: "Medalist",
+      titleJa: "メダリスト",
+      score: 8,
+    },
+    {
+      titleZh: "将夜",
+      titleEn: "Ruri Rocks",
+      titleJa: "瑠璃の宝石",
+      score: 8.1,
+    },
+    {
+      titleZh: "放开那个女巫",
+      titleEn: "Apocalypse Hotel",
+      titleJa: "アポカリプスホテル",
+      score: 8.2,
+    },
+    {
+      titleZh: "镖人2",
+      titleEn: "Nukitashi THE ANIMATION",
+      titleJa: "ぬきたし THE ANIMATION",
+      score: 6.7,
+    },
+    {
+      titleZh: "百日成王",
+      titleEn: "Food for the Soul",
+      titleJa: "日々は過ぎれど飯うまし",
+      score: 7.7,
+    },
+    {
+      titleZh: "记忆管理局",
+      titleEn: "Tojima Tanzaburo Wants to Be a Masked Rider",
+      titleJa: "東島丹三郎は仮面ライダーになりたい",
+      score: 6.9,
+    },
+    {
+      titleZh: "茶啊二中6",
+      titleEn: "The Fragrant Flower Blooms with Dignity",
+      titleJa: "薫る花は凛と咲く",
+      score: 7,
+    },
+    {
+      titleZh: "斩神2",
+      titleEn: "Uma Musume Cinderella Gray",
+      titleJa: "ウマ娘 シンデレラグレイ",
+      score: 7.5,
+    },
+  ],
 }
 
 // 添加一个辅助函数来根据语言获取动画标题
