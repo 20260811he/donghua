@@ -189,6 +189,22 @@ const data: Data = {
       score: 8,
     },
   ],
+   "院线1": [
+    { titleZh: "三国第一部争洛阳", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
+    { titleZh: "去你的岛", titleEn: "Shirobako", titleJa: "SHIROBAKO", score: 8.7 },
+    {
+      titleZh: "三国的星空",
+      titleEn: "Fate/stay night [Unlimited Blade Works]",
+      titleJa: "Fate/stay night [Unlimited Blade Works]",
+      score: 7.5,
+    },
+    {
+      titleZh: "熊出没·年年有熊",
+      titleEn: "No Game No Life",
+      titleJa: "ノーゲーム・ノーライフ",
+      score: 7.7,
+    },
+     ],
   "2015": [
     {
       titleZh: "那年那兔那些事",
