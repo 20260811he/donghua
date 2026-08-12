@@ -606,7 +606,7 @@ const data: Data = {
       score: 6.5,
     },
       {
-      titleZh: "猫妖的诱惑",
+      titleZh: "镇魂街2",
       titleEn: "How Clumsy You Are, Miss Ueno",
       titleJa: "上野さんは不器用",
       score: 6.5,
