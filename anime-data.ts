@@ -1094,7 +1094,7 @@ const data: Data = {
       score: 7,
     },
     {
-      titleZh: "时光代理人 英都篇",
+      titleZh: "光阴之外",
       titleEn: "Uma Musume Cinderella Gray",
       titleJa: "ウマ娘 シンデレラグレイ",
       score: 7.5,
